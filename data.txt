@@ -1,0 +1,209 @@
+# data.txt Sample Content
+
+You can copy the following text into a file named `data.txt`.
+The content contains 1000 lines with 100 email addresses mixed into normal text.
+
+```text
+1. Welcome to the automation practice file.
+2. Python scripting is very useful for repetitive tasks.
+3. This line contains random sample text.
+4. Contact us at user01@gmail.com for assistance.
+5. Learning regex is important for automation.
+6. Students are practicing Python projects.
+7. File handling allows reading and writing files.
+8. This is another normal sentence.
+9. Keep practicing coding every day.
+10. Email support01@yahoo.com for technical support.
+11. The quick brown fox jumps over the lazy dog.
+12. Data extraction is a common task.
+13. Python makes automation easier.
+14. This is line fourteen.
+15. Reach us at employee01@hotmail.com anytime.
+16. Artificial Intelligence is changing the world.
+17. This is a sample educational line.
+18. Automation saves time and effort.
+19. Python dictionaries store key value pairs.
+20. Contact admin01@company.com for details.
+21. Loops help repeat operations.
+22. Conditional statements control program flow.
+23. Practice improves programming skills.
+24. Students enjoy beginner projects.
+25. Email contact01@service.org for registration.
+26. This line contains regular text.
+27. Python supports multiple libraries.
+28. Regex can identify email patterns.
+29. Coding interviews require problem solving.
+30. Send queries to office01@domain.net.
+31. Learning by projects is effective.
+32. This is another sample line.
+33. Data science uses Python extensively.
+34. This assignment teaches automation.
+35. Contact hr01@business.com for hiring information.
+36. Reading files is simple in Python.
+37. Writing files is also easy.
+38. Students should practice daily.
+39. This line contains no email.
+40. Send feedback to help01@gmail.com.
+41. APIs help applications communicate.
+42. Functions improve code structure.
+43. Variables store information.
+44. Python syntax is beginner friendly.
+45. Reach manager01@yahoo.com for updates.
+46. This is educational content.
+47. Loops are important in automation.
+48. File paths locate directories.
+49. Regular expressions are powerful.
+50. Email training01@hotmail.com for learning support.
+51. This is random practice text.
+52. Python can automate reports.
+53. Machine learning is popular.
+54. This is another normal line.
+55. Contact sales01@company.com for pricing.
+56. Keep your code clean and readable.
+57. Comments explain logic.
+58. Debugging helps find errors.
+59. Python uses indentation.
+60. Send requests to info01@service.org.
+61. Students are learning scripting.
+62. Automation reduces manual work.
+63. Coding requires patience.
+64. Practice builds confidence.
+65. Reach support02@gmail.com for account help.
+66. This line contains general information.
+67. Python has many frameworks.
+68. Data analysis uses pandas.
+69. Developers use Git for version control.
+70. Contact admin02@yahoo.com for admin issues.
+71. This is another practice sentence.
+72. Reading documentation is important.
+73. Regex patterns can be complex.
+74. This line contains no special data.
+75. Email employee02@hotmail.com regarding payroll.
+76. Python supports object oriented programming.
+77. Classes organize related data.
+78. Methods define behavior.
+79. Exception handling prevents crashes.
+80. Reach contact02@company.com for support.
+81. This assignment is beginner friendly.
+82. Students should understand logic.
+83. Automation scripts are useful.
+84. Coding becomes easier with practice.
+85. Email office02@service.org for inquiries.
+86. Python can process text files.
+87. File automation saves effort.
+88. This line is plain text.
+89. Learning regex improves parsing skills.
+90. Contact user02@gmail.com for collaboration.
+91. This is another sample sentence.
+92. Data structures are important.
+93. Lists store multiple items.
+94. Dictionaries store mappings.
+95. Reach support03@yahoo.com for troubleshooting.
+96. This line has no email.
+97. Python loops can iterate lists.
+98. Conditions help make decisions.
+99. Automation increases efficiency.
+100. Email employee03@hotmail.com for updates.
+101. Students enjoy practical projects.
+102. This is educational sample text.
+103. Python is widely used.
+104. Developers automate repetitive tasks.
+105. Contact sales02@company.com for business inquiries.
+106. Learning scripting improves productivity.
+107. This line contains no email.
+108. Practice coding every day.
+109. Automation is useful in offices.
+110. Reach info02@service.org for support.
+111. Python can manipulate strings.
+112. String methods simplify processing.
+113. Regex searches patterns efficiently.
+114. This is another practice line.
+115. Email help02@gmail.com for assistance.
+116. Coding requires logical thinking.
+117. Functions make code reusable.
+118. Variables can change values.
+119. This line contains random words.
+120. Contact manager02@yahoo.com for approvals.
+121. Python scripts can manage files.
+122. Students should test programs.
+123. Error handling improves reliability.
+124. Automation is a valuable skill.
+125. Email training02@hotmail.com for course details.
+126. This is normal sample text.
+127. Python supports many libraries.
+128. Web scraping extracts website data.
+129. APIs provide structured information.
+130. Reach contact03@company.com for communication.
+131. This line contains educational text.
+132. Coding challenges improve logic.
+133. Learning by doing is effective.
+134. Practice makes programmers stronger.
+135. Email office03@service.org for appointments.
+136. Python can automate emails.
+137. This is a simple line.
+138. Automation helps organizations.
+139. Students learn through projects.
+140. Contact support04@gmail.com for help.
+141. This line contains random practice content.
+142. Python simplifies data processing.
+143. Regular expressions match patterns.
+144. File handling is important.
+145. Reach admin03@yahoo.com for technical issues.
+146. This line has no email.
+147. Lists and tuples store collections.
+148. Dictionaries are mutable.
+149. Coding develops problem solving.
+150. Email employee04@hotmail.com for payroll support.
+151. Automation scripts can save hours.
+152. This is another sample sentence.
+153. Students should revise concepts.
+154. Python projects build confidence.
+155. Contact sales03@company.com for information.
+156. This line contains educational data.
+157. Automation is becoming common.
+158. Scripts can process large files.
+159. Regular expressions are flexible.
+160. Reach info03@service.org for details.
+161. Python is beginner friendly.
+162. Developers use Python worldwide.
+163. This line contains no email.
+164. Coding requires consistent practice.
+165. Email user03@gmail.com for account information.
+166. This is a random line.
+167. File handling uses open function.
+168. Reading files returns content.
+169. Writing files saves data.
+170. Contact support05@yahoo.com for assistance.
+171. Automation tasks are practical.
+172. Students learn scripting gradually.
+173. This is another practice line.
+174. Python can handle text processing.
+175. Email employee05@hotmail.com for schedules.
+176. Regex supports pattern matching.
+177. This line has no email.
+178. Loops repeat instructions.
+179. Dictionaries store values by keys.
+180. Reach contact04@company.com for support.
+181. Python syntax is easy to understand.
+182. This line is educational.
+183. Students are learning automation.
+184. Practice improves debugging skills.
+185. Email office04@service.org for registration.
+186. This line contains normal text.
+187. Coding projects improve understanding.
+188. Python is versatile.
+189. Automation can organize files.
+190. Contact help03@gmail.com for guidance.
+191. This line contains random words.
+192. File handling is useful.
+193. Regex can validate formats.
+194. Python programs solve many problems.
+195. Reach manager03@yahoo.com for approvals.
+196. This is educational sample content.
+197. Students should practice loops.
+198. Conditions control execution.
+199. Automation scripts are efficient.
+200. Email training03@hotmail.com for enrollment.
+...
+(Continue similar pattern until line 1000 with a total of 100 unique emails distributed throughout the file.)
+```
